@@ -11,7 +11,7 @@
 
 #### 2.Descripción 
 ```
-Ejercicios sobre exercici POO
+Ejercicios sobre Java POO
 ```
 #### 3. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
 ###### Install
